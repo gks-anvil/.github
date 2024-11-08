@@ -1,12 +1,15 @@
-## Hi there 👋
+# Genomic Knowledge Standards for Genomic Analysis, Visualization and Informatics Lab-space (AnVIL)
 
-<!--
+We are scientists and software engineers at [Nationwide Children's Hospital](https://www.nationwidechildrens.org/specialties/institute-for-genomic-medicine/research-labs/wagner-lab) and [Oregon Health & Sciences University](https://ellrottlab.org/) developing libraries and workflows to apply [GA4GH Genomic Knowledge Standards](https://www.ga4gh.org/work_stream/genomic-knowledge-standards/) 
 
-**Here are some ideas to get you started:**
+## Projects
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* [Advancing AI-readiness of GREGoR data with GA4GH Genomic Knowledge Standards](https://gregorconsortium.org/members/partner/wagner-research-institute-nationwide-childrens-hospital-research-grant-awardee): transforming GREGoR data into searchable Cohort Allele Frequency objects
+
+## Libraries
+
+* [vrsix](https://github.com/gks-anvil/vrsix): Construct rapidly-searchable indices for VRS-annotated VCFs on Terra
+
+## Workflows
+
+* put a workflow here
