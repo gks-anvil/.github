@@ -1,6 +1,6 @@
-# Genomic Knowledge Standards for Genomic Analysis, Visualization and Informatics Lab-space (AnVIL)
+# Genomic Knowledge Standards for AnVIL
 
-We are scientists and software engineers at [Nationwide Children's Hospital](https://www.nationwidechildrens.org/specialties/institute-for-genomic-medicine/research-labs/wagner-lab) and [Oregon Health & Sciences University](https://ellrottlab.org/) developing libraries and workflows to apply [GA4GH Genomic Knowledge Standards](https://www.ga4gh.org/work_stream/genomic-knowledge-standards/) 
+We are scientists and software engineers at [Nationwide Children's Hospital](https://www.nationwidechildrens.org/specialties/institute-for-genomic-medicine/research-labs/wagner-lab) and [Oregon Health & Sciences University](https://ellrottlab.org/) developing libraries and workflows to apply [GA4GH Genomic Knowledge Standards](https://www.ga4gh.org/work_stream/genomic-knowledge-standards/) to data on the [Genomic Analysis, Visualization and Informatics Lab-space (AnVIL)](https://www.genome.gov/Funded-Programs-Projects/Computational-Genomics-and-Data-Science-Program/Genomic-Analysis-Visualization-Informatics-Lab-space-AnVIL) platform.
 
 ## Projects
 
