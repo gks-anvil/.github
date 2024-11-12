@@ -8,8 +8,8 @@ We are scientists and software engineers at [Nationwide Children's Hospital](htt
 
 ## Libraries
 
-* [vrsix](https://github.com/gks-anvil/vrsix): Construct rapidly-searchable indices for VRS-annotated VCFs on Terra
+* [vrsix](https://github.com/gks-anvil/vrsix): Construct rapidly-searchable indices for VRS-annotated VCFs
 
 ## Workflows
 
-* put a workflow here
+* [vrsix-workflow](https://github.com/gks-anvil/vrsix-workflow): Terra workflow for using vrsix to index VCFs
