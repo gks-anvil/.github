@@ -14,4 +14,4 @@ We are scientists and software engineers at [Nationwide Children's Hospital](htt
 ## Workflows
 
 * [VRS Annotator](https://github.com/gks-anvil/vrs-annotator): Terra workflow to annotate VCFs with VRS identifiers
-* [VRSix-workflow](https://github.com/gks-anvil/vrsix-workflow): Terra workflow for using vrsix to index VRS-annotated VCFs
+* [VRSix-workflow](https://github.com/gks-anvil/vrsix-workflow): Terra workflow for using VRSix to index VRS-annotated VCFs
