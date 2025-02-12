@@ -9,9 +9,9 @@ We are scientists and software engineers at [Nationwide Children's Hospital](htt
 ## Libraries
 
 * [VRS AnVIL Toolkit](https://github.com/gks-anvil/vrs_anvil_toolkit): Process and perform VRS-based lookups on VCFs. Retrieve evidence from the VICC MetaKB.
-* [vrsix](https://github.com/gks-anvil/vrsix): Construct rapidly-searchable indices for VRS-annotated VCFs
+* [VRSix](https://github.com/gks-anvil/vrsix): Construct rapidly-searchable indices for VRS-annotated VCFs
 
 ## Workflows
 
 * [VRS Annotator](https://github.com/gks-anvil/vrs-annotator): Terra workflow to annotate VCFs with VRS identifiers
-* [vrsix-workflow](https://github.com/gks-anvil/vrsix-workflow): Terra workflow for using vrsix to index VRS-annotated VCFs
+* [VRSix-workflow](https://github.com/gks-anvil/vrsix-workflow): Terra workflow for using vrsix to index VRS-annotated VCFs
